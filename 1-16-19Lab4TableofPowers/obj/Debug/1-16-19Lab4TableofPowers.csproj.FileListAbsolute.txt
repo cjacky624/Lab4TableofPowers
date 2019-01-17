@@ -1,0 +1,6 @@
+c:\users\jc\documents\visual studio 2017\Projects\1-16-19Lab4TableofPowers\1-16-19Lab4TableofPowers\bin\Debug\1-16-19Lab4TableofPowers.exe.config
+c:\users\jc\documents\visual studio 2017\Projects\1-16-19Lab4TableofPowers\1-16-19Lab4TableofPowers\bin\Debug\1-16-19Lab4TableofPowers.exe
+c:\users\jc\documents\visual studio 2017\Projects\1-16-19Lab4TableofPowers\1-16-19Lab4TableofPowers\bin\Debug\1-16-19Lab4TableofPowers.pdb
+c:\users\jc\documents\visual studio 2017\Projects\1-16-19Lab4TableofPowers\1-16-19Lab4TableofPowers\obj\Debug\1-16-19Lab4TableofPowers.csprojResolveAssemblyReference.cache
+c:\users\jc\documents\visual studio 2017\Projects\1-16-19Lab4TableofPowers\1-16-19Lab4TableofPowers\obj\Debug\1-16-19Lab4TableofPowers.exe
+c:\users\jc\documents\visual studio 2017\Projects\1-16-19Lab4TableofPowers\1-16-19Lab4TableofPowers\obj\Debug\1-16-19Lab4TableofPowers.pdb
